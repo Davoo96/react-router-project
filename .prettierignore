@@ -1,0 +1,8 @@
+node_modules/
+dist/
+yarn.lock
+build
+public/icons
+public/manifest.json
+src/assets/*.html
+locales/
